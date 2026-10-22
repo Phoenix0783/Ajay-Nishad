@@ -12,7 +12,7 @@ const projects = [
       'A full-stack campground platform where users can discover, create and review camping locations.',
     image: '/images/campstay1.png',
     tags: ['Node.js', 'Express.js', 'MongoDB', 'Mongoose', 'EJS', 'Bootstrap', 'Passport.js', 'MapTiler', 'Cloudinary', 'Multer', 'Joi', 'Helmet','dotenv'],
-    liveUrl: 'https://yelpcamp-murex-three.vercel.app/',
+    liveUrl: 'https://campstay-project.vercel.app/',
     githubUrl: '',
     overview:
       'CampStay is a community-driven campground discovery and review web application. Users can explore campgrounds on a searchable map, view location details and photos, and share their own listings and reviews. The application is server-rendered with EJS and includes user accounts, campground management, and interactive maps.',
