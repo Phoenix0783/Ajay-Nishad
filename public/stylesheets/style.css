@@ -496,6 +496,19 @@ img {
   fill: var(--color-bg);
 }
 
+.skill-items .skill-logo-html {
+  color: var(--color-primary);
+}
+
+.skill-items .skill-logo-css {
+  color: var(--color-accent-blue);
+}
+
+.skill-items .skill-logo-html .logo-cutout,
+.skill-items .skill-logo-css .logo-cutout {
+  fill: #fff;
+}
+
 .skill-icon-library {
   position: absolute;
   width: 0;
