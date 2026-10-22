@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 440" fill="none">
+  <rect width="720" height="440" rx="28" fill="#F2E9D9"/>
+  <circle cx="588" cy="91" r="133" fill="#E9D2AB" fill-opacity=".75"/>
+  <circle cx="91" cy="391" r="130" fill="#D8E7DB"/>
+  <rect x="78" y="42" width="564" height="356" rx="24" fill="#FFFEFA"/>
+  <text x="111" y="84" fill="#3C493D" font-family="Arial,sans-serif" font-size="21" font-weight="700">lingo</text>
+  <circle cx="171" cy="75" r="13" fill="#E1AD61"/>
+  <path d="M166 75h10m-5-5v10" stroke="#fff" stroke-width="2" stroke-linecap="round"/>
+  <rect x="511" y="59" width="95" height="31" rx="15.5" fill="#F4F1E9"/>
+  <circle cx="530" cy="74" r="9" fill="#D7B98F"/>
+  <text x="545" y="78" fill="#72786F" font-family="Arial,sans-serif" font-size="10" font-weight="700">DAY 08</text>
+  <text x="112" y="132" fill="#36483B" font-family="Arial,sans-serif" font-size="23" font-weight="700">A little practice, every day.</text>
+  <text x="112" y="154" fill="#8A9185" font-family="Arial,sans-serif" font-size="12">Your Spanish journey is taking shape.</text>
+  <rect x="112" y="177" width="332" height="180" rx="18" fill="#F2F5EC"/>
+  <rect x="132" y="197" width="292" height="8" rx="4" fill="#E0E7D9"/>
+  <rect x="132" y="197" width="193" height="8" rx="4" fill="#79A487"/>
+  <text x="132" y="233" fill="#778176" font-family="Arial,sans-serif" font-size="10" font-weight="700">TODAY'S WORD</text>
+  <text x="132" y="273" fill="#34473A" font-family="Arial,sans-serif" font-size="31" font-weight="700">despacio</text>
+  <text x="284" y="271" fill="#9B9F93" font-family="Arial,sans-serif" font-size="13">/desˈpa.sjo/</text>
+  <text x="132" y="299" fill="#788276" font-family="Arial,sans-serif" font-size="13">slowly · at a gentle pace</text>
+  <rect x="132" y="319" width="108" height="25" rx="12.5" fill="#DCE9DB"/>
+  <text x="149" y="336" fill="#50785C" font-family="Arial,sans-serif" font-size="10" font-weight="700">SAVE WORD</text>
+  <rect x="461" y="177" width="145" height="180" rx="18" fill="#F8F0E2"/>
+  <circle cx="533" cy="231" r="34" fill="#E8D5B6"/>
+  <path d="M520 237h26m-13-14v28m-16-20h32" stroke="#A47B42" stroke-width="4" stroke-linecap="round"/>
+  <text x="485" y="294" fill="#837354" font-family="Arial,sans-serif" font-size="10" font-weight="700">WEEKLY STREAK</text>
+  <text x="512" y="324" fill="#594A31" font-family="Arial,sans-serif" font-size="25" font-weight="700">8 days</text>
+  <text x="492" y="344" fill="#928469" font-family="Arial,sans-serif" font-size="10">You're on a roll!</text>
+  <g fill="#7DA68A">
+    <circle cx="118" cy="378" r="4"/><circle cx="134" cy="378" r="4"/><circle cx="150" cy="378" r="4"/>
+    <circle cx="166" cy="378" r="4"/><circle cx="182" cy="378" r="4"/><circle cx="198" cy="378" r="4"/>
+  </g>
+  <text x="218" y="382" fill="#899084" font-family="Arial,sans-serif" font-size="10">6 of 7 lessons complete</text>
+</svg>

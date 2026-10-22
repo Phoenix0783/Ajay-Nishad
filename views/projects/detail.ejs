@@ -1,0 +1,92 @@
+
+<%- include('../partials/header') %>
+
+<nav class="breadcrumb" aria-label="Breadcrumb">
+  <a href="/projects">← Back to Projects</a>
+</nav>
+
+<section class="detail-intro">
+  <span class="project-category"><%= project.category %></span>
+  <h1><%= project.title %><span class="accent">.</span></h1>
+  <p><%= project.description %></p>
+
+  <div class="button-group">
+    <% if (project.liveUrl) { %>
+      <a class="btn btn-primary" href="<%= project.liveUrl %>"
+         target="_blank" rel="noreferrer"
+         aria-label="Open <%= project.title %> live demo in a new tab">
+        Live Demo ↗
+      </a>
+    <% } %>
+  </div>
+</section>
+
+<div class="detail-cover project-carousel" data-carousel
+     aria-label="<%= project.title %> project screens">
+  <div class="carousel-slides" aria-live="polite">
+    <% const projectScreens = project.screens && project.screens.length
+      ? project.screens
+      : [{ title: project.title, image: project.image }]; %>
+    <% projectScreens.forEach((screen, index) => { %>
+      <figure class="carousel-slide" data-carousel-slide="<%= index %>"
+              <%= index === 0 ? '' : 'hidden' %>>
+        <img src="<%= screen.image %>"
+             alt="<%= project.title %> — <%= screen.title %>">
+      </figure>
+    <% }) %>
+  </div>
+
+  <% if (projectScreens.length > 1) { %>
+    <div class="carousel-controls">
+      <button class="carousel-arrow" type="button" data-carousel-previous
+              aria-label="Show previous project screen">←</button>
+      <button class="carousel-arrow" type="button" data-carousel-next
+              aria-label="Show next project screen">→</button>
+    </div>
+    <div class="carousel-indicators" role="group"
+         aria-label="Choose a project screen">
+      <% projectScreens.forEach((screen, index) => { %>
+        <button class="carousel-indicator<%= index === 0 ? ' active' : '' %>"
+                type="button" data-carousel-go-to="<%= index %>"
+                aria-label="Show <%= screen.title %>"
+                aria-current="<%= index === 0 ? 'true' : 'false' %>"></button>
+      <% }) %>
+    </div>
+  <% } %>
+</div>
+
+<section class="detail-section">
+  <p class="eyebrow">01 — THE PROJECT</p>
+  <h2>Overview</h2>
+  <p class="reading-width"><%= project.overview %></p>
+  <p class="detail-role"><strong>My role:</strong> <%= project.role %></p>
+</section>
+
+<section class="detail-columns">
+  <div class="detail-section">
+    <p class="eyebrow">02 — WHAT IT OFFERS</p>
+    <h2>Key features</h2>
+    <ul class="feature-list">
+      <% project.features.forEach(feature => { %>
+        <li><span class="feature-check">✓</span><%= feature %></li>
+      <% }) %>
+    </ul>
+  </div>
+
+  <div class="detail-section">
+    <p class="eyebrow">03 — TOOLS &amp; TECHNOLOGY</p>
+    <h2>Technologies used</h2>
+    <div class="tag-list technology-list">
+      <% project.tags.forEach(technology => { %>
+        <span><%= technology %></span>
+      <% }) %>
+    </div>
+  </div>
+</section>
+
+<nav class="project-navigation" aria-label="Project navigation">
+  <a href="/projects">← All Projects</a>
+  <a href="/projects">Explore More Projects →</a>
+</nav>
+
+<%- include('../partials/footer') %>

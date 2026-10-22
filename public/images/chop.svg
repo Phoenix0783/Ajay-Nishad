@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 440" fill="none">
+  <rect width="720" height="440" rx="28" fill="#F2E9E5"/>
+  <circle cx="620" cy="62" r="135" fill="#F4D5C7" fill-opacity=".66"/>
+  <circle cx="85" cy="391" r="124" fill="#DAD7EC" fill-opacity=".72"/>
+  <rect x="65" y="38" width="590" height="364" rx="25" fill="#FCFAF8"/>
+  <rect x="65" y="38" width="181" height="364" rx="25" fill="#28273A"/>
+  <path d="M220 38h26v364h-26z" fill="#28273A"/>
+  <circle cx="104" cy="83" r="20" fill="#E7A98D"/>
+  <path d="M96 76h16v3H96zm0 6h12v3H96zm0 6h8v3h-8z" fill="#28273A"/>
+  <text x="135" y="89" fill="#FBF7F2" font-family="Arial,sans-serif" font-size="19" font-weight="700">chop.</text>
+  <rect x="84" y="125" width="143" height="38" rx="12" fill="#454257"/>
+  <circle cx="103" cy="144" r="6" fill="#E7A98D"/>
+  <text x="119" y="148" fill="#fff" font-family="Arial,sans-serif" font-size="12" font-weight="700">For you</text>
+  <g fill="#BCB8C8" font-family="Arial,sans-serif" font-size="12">
+    <text x="119" y="192">Trending topics</text><text x="119" y="229">Following</text><text x="119" y="266">Saved debates</text>
+  </g>
+  <g fill="#A69FC5">
+    <circle cx="101" cy="188" r="5"/><circle cx="101" cy="225" r="5"/><circle cx="101" cy="262" r="5"/>
+  </g>
+  <rect x="84" y="323" width="143" height="53" rx="13" fill="#37354B"/>
+  <circle cx="106" cy="349" r="13" fill="#D4A6A0"/>
+  <text x="127" y="347" fill="#F8F4EF" font-family="Arial,sans-serif" font-size="10" font-weight="700">Alex Morgan</text>
+  <text x="127" y="361" fill="#B8B3C2" font-family="Arial,sans-serif" font-size="9">Curious mind</text>
+  <text x="278" y="83" fill="#29283A" font-family="Arial,sans-serif" font-size="22" font-weight="700">The conversation</text>
+  <text x="278" y="105" fill="#898596" font-family="Arial,sans-serif" font-size="12">Share a take. Hear another side.</text>
+  <rect x="278" y="124" width="350" height="45" rx="14" fill="#F2EFF4"/>
+  <circle cx="302" cy="146" r="11" fill="#D7A39A"/>
+  <text x="322" y="150" fill="#9591A0" font-family="Arial,sans-serif" font-size="11">What do you think about...</text>
+  <rect x="278" y="186" width="350" height="145" rx="17" fill="#F8F3EF"/>
+  <circle cx="306" cy="214" r="13" fill="#A5B8AF"/>
+  <text x="329" y="211" fill="#706C7C" font-family="Arial,sans-serif" font-size="10" font-weight="700">JAMIE PARK  ·  2H AGO</text>
+  <text x="300" y="250" fill="#302E40" font-family="Arial,sans-serif" font-size="16" font-weight="700">Should cities make public transit free?</text>
+  <text x="300" y="273" fill="#7E7988" font-family="Arial,sans-serif" font-size="11">Better access helps everyone get around.</text>
+  <rect x="300" y="294" width="105" height="25" rx="12.5" fill="#E8DDF1"/>
+  <text x="319" y="311" fill="#5F537A" font-family="Arial,sans-serif" font-size="10" font-weight="700">YES  ·  68%</text>
+  <rect x="414" y="294" width="105" height="25" rx="12.5" fill="#F1DFD5"/>
+  <text x="434" y="311" fill="#8B6255" font-family="Arial,sans-serif" font-size="10" font-weight="700">NO  ·  32%</text>
+  <rect x="278" y="345" width="350" height="34" rx="11" fill="#EFECF2"/>
+  <text x="296" y="366" fill="#868190" font-family="Arial,sans-serif" font-size="10">Add your perspective...</text>
+  <circle cx="603" cy="362" r="11" fill="#655CB8"/>
+  <path d="m599 362 3 3 5-6" stroke="#fff" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

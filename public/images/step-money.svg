@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 440" fill="none">
+  <rect width="720" height="440" rx="28" fill="#F4EDE3"/>
+  <circle cx="613" cy="82" r="115" fill="#F2D4A9" fill-opacity=".5"/>
+  <circle cx="95" cy="380" r="130" fill="#D8E8D4" fill-opacity=".7"/>
+  <rect x="57" y="42" width="606" height="356" rx="24" fill="#FFFEFB"/>
+  <rect x="57" y="42" width="156" height="356" rx="24" fill="#273A36"/>
+  <path d="M189 42h24v356h-24z" fill="#273A36"/>
+  <circle cx="95" cy="82" r="20" fill="#D9EACD"/>
+  <path d="M95 67c-5 7-6 12 0 18 6-6 5-11 0-18Zm-12 19c7-3 11-2 13 4-6 3-10 1-13-4Zm21 0c-7-3-11-2-13 4 6 3 10 1 13-4Z" fill="#4C8065"/>
+  <text x="126" y="88" fill="#F8F4EA" font-family="Arial,sans-serif" font-size="17" font-weight="700">step money</text>
+  <rect x="79" y="131" width="111" height="37" rx="11" fill="#41554D"/>
+  <circle cx="98" cy="149" r="7" fill="#D9EACD"/>
+  <text x="115" y="153" fill="#fff" font-family="Arial,sans-serif" font-size="12" font-weight="700">Dashboard</text>
+  <g fill="#B7C2BA" font-family="Arial,sans-serif" font-size="12">
+    <text x="100" y="199">Activity</text><text x="100" y="233">Wallet</text><text x="100" y="267">Rewards</text>
+  </g>
+  <g fill="#D9EACD">
+    <circle cx="87" cy="195" r="5"/><circle cx="87" cy="229" r="5"/><circle cx="87" cy="263" r="5"/>
+  </g>
+  <text x="245" y="91" fill="#263B35" font-family="Arial,sans-serif" font-size="24" font-weight="700">Good morning, Alex</text>
+  <text x="245" y="115" fill="#839087" font-family="Arial,sans-serif" font-size="13">Every step moves you forward.</text>
+  <rect x="244" y="139" width="184" height="131" rx="17" fill="#ECF3E8"/>
+  <circle cx="336" cy="198" r="42" stroke="#D3E2CF" stroke-width="9"/>
+  <path d="M336 156a42 42 0 1 1-38 60" stroke="#659276" stroke-width="9" stroke-linecap="round"/>
+  <text x="309" y="198" fill="#294338" font-family="Arial,sans-serif" font-size="23" font-weight="700">7,842</text>
+  <text x="318" y="217" fill="#73847A" font-family="Arial,sans-serif" font-size="10">of 10,000 steps</text>
+  <text x="263" y="253" fill="#52725F" font-family="Arial,sans-serif" font-size="11" font-weight="700">TODAY'S PROGRESS</text>
+  <rect x="445" y="139" width="191" height="131" rx="17" fill="#F8EFE1"/>
+  <circle cx="482" cy="177" r="19" fill="#E5BD79"/>
+  <path d="M482 164v26m-7-19h10a5 5 0 0 1 0 10h-10" stroke="#fff" stroke-width="2" stroke-linecap="round"/>
+  <text x="464" y="222" fill="#9B7440" font-family="Arial,sans-serif" font-size="11" font-weight="700">REWARDS BALANCE</text>
+  <text x="464" y="251" fill="#4A4032" font-family="Arial,sans-serif" font-size="22" font-weight="700">$24.50</text>
+  <rect x="245" y="287" width="391" height="84" rx="16" fill="#F8F8F5"/>
+  <text x="265" y="315" fill="#35473E" font-family="Arial,sans-serif" font-size="13" font-weight="700">Your weekly activity</text>
+  <g fill="#A8C5A9">
+    <rect x="272" y="342" width="17" height="15" rx="5"/><rect x="319" y="329" width="17" height="28" rx="5"/>
+    <rect x="366" y="336" width="17" height="21" rx="5"/><rect x="413" y="320" width="17" height="37" rx="5"/>
+    <rect x="460" y="334" width="17" height="23" rx="5"/><rect x="507" y="313" width="17" height="44" rx="5"/>
+    <rect x="554" y="325" width="17" height="32" rx="5"/>
+  </g>
+  <path d="m272 322 55-13 55 7 55-18 55 15 55-22 55 10" stroke="#668D73" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

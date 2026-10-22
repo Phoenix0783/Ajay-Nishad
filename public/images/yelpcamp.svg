@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 440" fill="none">
+  <defs>
+    <linearGradient id="sky" x1="90" y1="45" x2="620" y2="410" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#DCEAE1"/>
+      <stop offset="1" stop-color="#B8D0C3"/>
+    </linearGradient>
+    <linearGradient id="hill" x1="100" y1="220" x2="609" y2="402" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#769885"/>
+      <stop offset="1" stop-color="#3E6856"/>
+    </linearGradient>
+  </defs>
+  <rect width="720" height="440" rx="28" fill="url(#sky)"/>
+  <circle cx="564" cy="102" r="42" fill="#F4D6A2"/>
+  <path d="M0 290 140 151l137 139 111-117 177 170v97H0V290Z" fill="#92AE9C" fill-opacity=".65"/>
+  <path d="m139 151 138 139H0l139-139Zm249 22 177 170H276l112-170Z" fill="#F4F1E8" fill-opacity=".78"/>
+  <path d="M0 320c117-62 209-51 314 1 126 63 248 43 406-32v151H0V320Z" fill="url(#hill)"/>
+  <path d="M0 363c138-46 257-36 365 7 111 44 227 28 355-20v90H0v-77Z" fill="#315644" fill-opacity=".65"/>
+  <g fill="#264B3C">
+    <path d="m89 313 22-54 22 54h-11l22 45H77l22-45H89Zm479-14 18-46 19 46h-10l19 39h-55l19-39h-10Zm-58 17 13-32 13 32h-7l14 29h-40l14-29h-7Z"/>
+  </g>
+  <g transform="translate(365 208)">
+    <path d="m0 65 68-63 68 63v88H0V65Z" fill="#E7D8BD"/>
+    <path d="m-12 68 80-75 80 75-12 13L68 16 0 81l-12-13Z" fill="#754D3C"/>
+    <path d="M55 102h27v51H55z" fill="#8C644E"/>
+    <rect x="21" y="82" width="23" height="23" rx="3" fill="#A4C3B4"/>
+    <rect x="92" y="82" width="23" height="23" rx="3" fill="#A4C3B4"/>
+  </g>
+  <rect x="28" y="26" width="664" height="50" rx="16" fill="#FBFAF7" fill-opacity=".94"/>
+  <circle cx="57" cy="51" r="13" fill="#55785E"/>
+  <path d="m57 42 7 13h-14l7-13Z" fill="#F5EBD7"/>
+  <text x="80" y="57" fill="#31483A" font-family="Arial,sans-serif" font-size="17" font-weight="700">YelpCamp</text>
+  <text x="497" y="55" fill="#65736A" font-family="Arial,sans-serif" font-size="12">Explore  ·  Campgrounds  ·  Sign in</text>
+  <rect x="31" y="111" width="258" height="137" rx="18" fill="#FBFAF7" fill-opacity=".95"/>
+  <text x="54" y="151" fill="#294335" font-family="Arial,sans-serif" font-size="24" font-weight="700">Find your</text>
+  <text x="54" y="180" fill="#294335" font-family="Arial,sans-serif" font-size="24" font-weight="700">next escape.</text>
+  <text x="55" y="205" fill="#718176" font-family="Arial,sans-serif" font-size="12">A little closer to the outdoors.</text>
+  <rect x="54" y="218" width="117" height="19" rx="9.5" fill="#55785E"/>
+  <text x="66" y="232" fill="#fff" font-family="Arial,sans-serif" font-size="10" font-weight="700">BROWSE CAMPSITES</text>
+</svg>
